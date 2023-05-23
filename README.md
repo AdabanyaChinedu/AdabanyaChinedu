@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adabanya Chinedu</h1>
 <h3 align="center">An Expert Software Engineer</h3>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently exploring **Microservices, DDD, and Design Patterns**
 
-- 💬 Ask me about **C#, Elixir, Angular, React**
+- 💬 Ask me about **C#, Elixir, Javascript, Angular, React**
 
 - 📫 How to reach me **contactdevnedu@gmail.com**
 

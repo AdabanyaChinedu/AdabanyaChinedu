@@ -15,7 +15,7 @@
 </p>
 
 <h3 align="left">Programming Languages:</h3>
-<p align="left"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img
+<p align="left"><a href="https://www.w3schools.com/cs/" title="C#" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
             alt="csharp" width="40" height="40" /> </a><a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40"

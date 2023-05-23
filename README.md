@@ -9,18 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-       alt="csharp" title="C#" width="40" height="40" /> C#
-  <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg"
-       alt="elixir" title="Elixir" width="40" height="40" /> Elixir
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-       alt="javascript" title="JavaScript" width="40" height="40" /> JavaScript
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-       alt="typescript" title="TypeScript" width="40" height="40" /> TypeScript
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-       alt="php" title="Php" width="40" height="40" /> PHP
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-       alt="python" title="Python" width="40" height="40" /> Python
+  <a href="https://codepen.io/@cwarrior1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@cwarrior1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adabanychinedu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adabanychinedu" height="30" width="40" /></a>
+<a href="https://medium.com/@adabanyachinedu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adabanyachinedu" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Programming Languages:</h3>

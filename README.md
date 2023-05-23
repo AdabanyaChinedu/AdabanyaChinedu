@@ -19,7 +19,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
   alt="csharp" title="C#" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg"
   alt="elixir" title="Elixir" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-  alt="javascript" title="JavaScript" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+  alt="javascript" style="margin-right: 0.7rem" title="JavaScript" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
   alt="typescript" title="TypeScript" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
   alt="php" title="Php" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
   alt="python" title="Python" width="40" height="40" /></p>
@@ -49,41 +49,39 @@
             alt="postgresql" width="40" height="40" /> </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
             alt="mongodb" width="40" height="40" /> </a> <a href="https://www.microsoft.com/en-us/sql-server"
-        target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968306.png "
-            alt="mssql" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank"
-        rel="noreferrer"> <img
+        target="_blank" rel="noreferrer" style="margin-right: 0.7rem"> <img src="https://images.cloudclusters.io/8bdeafb5baf24f6db83b03f7145827b2/sql-server250.png"
+            alt="mssql" width="60" height="50" /> </a> <a href="https://www.mysql.com/" target="_blank"
+        rel="noreferrer" style="margin-right: 0.7rem"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" /> </a> <a href="https://www.oracle.com/" target="_blank"
-        rel="noreferrer"> <img
+            alt="mysql" width="40" height="40" /> </a> <a href="https://www.oracle.com/" target="_blank"
+        rel="noreferrer" style="margin-right: 0.7rem"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-            alt="oracle" width="40" height="40" /> </a><a href="https://redis.io" target="_blank" rel="noreferrer"> <img
+            alt="oracle" width="40" height="40" /> </a><a href="https://redis.io" target="_blank" rel="noreferrer" style="margin-right: 0.7rem"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
             alt="redis" width="40" height="40" /> </a>  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> </a> </p>
 
 <h3 align="left">Other tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
+        rel="noreferrer" style="margin-right: 0.7rem"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
             alt="azure" width="40" height="40" /> </a>  <a href="https://www.docker.com/" target="_blank"
-        rel="noreferrer"> <img
+        rel="noreferrer" style="margin-right: 0.7rem"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
             alt="docker" width="40" height="40" /> </a> <a href="https://dotnet.microsoft.com/" target="_blank"
-        rel="noreferrer"> <img
+        rel="noreferrer" style="margin-right: 0.7rem"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
             alt="dotnet" width="40" height="40" /> </a> <a href="https://www.elastic.co" target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch"
-            width="40" height="40" /> </a><a href="https://grafana.com" target="_blank" rel="noreferrer">
+        rel="noreferrer" style="margin-right: 0.7rem"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch"
+            width="40" height="40" /> </a><a href="https://grafana.com" target="_blank" rel="noreferrer" style="margin-right: 0.7rem">
         <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40" />
-    </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img
+    </a> <a href="https://graphql.org" target="_blank" rel="noreferrer" style="margin-right: 0.7rem"> <img
             src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />
-    </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img
+    </a> <a href="https://heroku.com" target="_blank" rel="noreferrer" style="margin-right: 0.7rem"> <img
             src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /> </a>
     </a> <a href="https://www.elastic.co/kibana" target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"
+        rel="noreferrer" style="margin-right: 0.7rem"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"
             alt="kibana" width="40" height="40" /> </a> <a href="https://kubernetes.io" target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes"
+        rel="noreferrer" style="margin-right: 0.7rem"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes"
             width="40" height="40" /> </a><a href="https://www.rabbitmq.com" target="_blank"
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ"
             width="40" height="40" /> </a> </p>
